@@ -1,5 +1,5 @@
 # ITSC 2214 (Data Structures and Algorithms) Programing Assignment 3 (Binary Search Tree)
-
+- **Term Taken: Spring 2020**
 - Write a program allows the user to enter and search for strings.
 -  When strings are added to the tree, they should be wrapped inside a node object that holds the string, the frequency (number of times) with which that string has been added to the tree, and references to two other nodes (children).  
 - The strings must be stored in a Binary Search Tree. 
